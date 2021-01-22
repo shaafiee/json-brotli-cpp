@@ -1,0 +1,1 @@
+clang++ dotlottie2.cpp -o dotlottie2 -std=c++17 -Iinclude -lbrotlienc -DLLVM_USE_LINKER=gold -DCMAKE_BUILD_TYPE=Release

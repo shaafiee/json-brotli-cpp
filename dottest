@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./dotlottie2 add outtest --compress 0 --manifest testmanifest.json --lottie test=test.json

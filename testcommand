@@ -1,0 +1,1 @@
+./dotlottie2 add outtest --compress 1 --manifest testmanifest.json --lottie test=test.json
